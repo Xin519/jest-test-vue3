@@ -27,4 +27,5 @@ yarn lint
 ```
 yarn test
 ```
-运行jest测试组件
+##### 运行jest测试组件
+##### jest-test-vue3/tests/unit/example.spec.js 编写jest代码路径
