@@ -1,6 +1,6 @@
 # jest test vue3
 
-vue3 添加任务组件 个人联系 
+vue3 添加任务组件 个人练习 
 jest 测试组件功能
 
 ## Project setup
