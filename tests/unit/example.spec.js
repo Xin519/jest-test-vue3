@@ -57,6 +57,7 @@ describe('App.vue', () => {
   })
 
   test('切换数据状态', async () => {
+    const text = 'leafs'
     input.setValue(text)
     await input.trigger('keyup.enter') // 添加一条数据
 
